@@ -1,0 +1,1 @@
+Deine Bestellung über <?php echo $order->getPrice(); ?> war <b>erfolgreich</b>.
