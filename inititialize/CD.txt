@@ -1,0 +1,1 @@
+a:5:{i:0;a:2:{i:0;s:12:"Jimi Hendrix";i:1;s:16:"../../temp/1.jpg";}i:1;a:2:{i:0;s:14:"Rolling Stones";i:1;s:16:"../../temp/2.jpg";}i:2;a:2:{i:0;s:15:"Aretha Franklin";i:1;s:16:"../../temp/3.jpg";}i:3;a:2:{i:0;s:10:"Bob Marley";i:1;s:16:"../../temp/4.jpg";}i:4;a:2:{i:0;s:11:"Renft Combo";i:1;s:16:"../../temp/5.jpg";}}
