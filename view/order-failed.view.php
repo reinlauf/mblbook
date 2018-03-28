@@ -1,1 +1,0 @@
-Deine Bestellung ist leider <b>fehlgeschlagen</b>. Bitte kontaktiere unseren Support.
